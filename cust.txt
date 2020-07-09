@@ -1,0 +1,7 @@
+1|John Smith|123 Here Street|456-4567 
+2|Sue Jones|43 Rose Court Street|345-7867 
+3|Fan Yuhong|165 Happy Lane|345-4533
+5|Nesar Alam|2150 Rue Saint-Marc|4389799102
+4|Amit Bro|Sylhet|01818943321
+7|Anika Iqbal|Ottawa|457668192
+6|Hasib Chakroborty|Dhaka |01987623
